@@ -2,7 +2,7 @@
 
 ## SpringBootApplication
 
-<mark>@SpringBootApplication<mark>
+<mark>@SpringBootApplication</mark>
 
 ```java
 @SpringBootApplication
